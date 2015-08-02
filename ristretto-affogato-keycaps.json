@@ -11,15 +11,20 @@
       "t": "#ffffff",
       "p": "label",
       "f": 9,
-      "w": 0.5,
-      "h": 0.5
+      "f2": 3,
+      "w": 0.5
     },
-    "Ristretto Affogato -  Design Draft - SA Doubleshot ABS - fully sculpted"
+    "Ristretto Affogato -  Design DRAFT\nSA Doubleshot ABS - fully sculpted"
   ],
   [
     {
-      "y": -0.25,
-      "x": 5,
+      "f": 3,
+      "w": 0.5,
+      "h": 0.5
+    },
+    "Signature plastics ABS Colors",
+    {
+      "x": 3.25,
       "c": "#e3d5b9",
       "t": "#29211c",
       "p": "SA  R1 ",
@@ -71,20 +76,12 @@
   ],
   [
     {
-      "y": -0.75,
+      "y": -0.25,
       "c": "#000000",
       "t": "#ffffff",
       "p": "label",
       "a": 4,
       "f": 5,
-      "w": 0.5,
-      "h": 0.5
-    },
-    "Signature plastics ABS Colors"
-  ],
-  [
-    {
-      "y": -0.25,
       "w": 0.5,
       "h": 0.5
     },
@@ -3055,6 +3052,6 @@
       "w": 0.5,
       "h": 0.5
     },
-    "Dvorak & Colemak kits to be added"
+    "ErgoDox, Kinesis, Atreus, JD40, KC84, 60%, Dvorak & Colemak kits to be added soon"
   ]
 ]
