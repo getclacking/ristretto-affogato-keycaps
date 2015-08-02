@@ -13,4 +13,4 @@ The goal is to produce these through Signature Plastics as SA Profile
 
 ### Preview
 
-![](ristretto-affogato-keycaps-preview.png)
+[![](https://raw.githubusercontent.com/jasonm23/ristretto-affogato-keycaps/master/ristretto-affogato-keycaps-preview.png)](https://raw.githubusercontent.com/jasonm23/ristretto-affogato-keycaps/master/ristretto-affogato-keycaps-preview.png)
