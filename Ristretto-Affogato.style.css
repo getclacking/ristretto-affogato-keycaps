@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'GothamRoundedBold';
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-bold.eot');
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-bold.eot') format('embedded-opentype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-bold.woff') format('woff'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-bold.ttf') format('truetype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-bold.svg#GothamRoundedBold') format('svg');
+}
+
+@font-face {
+    font-family: 'GothamRoundedBook';
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-book.eot');
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-book.eot') format('embedded-opentype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-book.woff') format('woff'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-book.ttf') format('truetype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-book.svg#GothamRoundedBook') format('svg');
+}
+@font-face {
+    font-family: 'GothamRoundedMedium';
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-medium.eot');
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-medium.eot') format('embedded-opentype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-medium.woff') format('woff'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-medium.ttf') format('truetype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-medium.svg#GothamRoundedMedium') format('svg');
+}
+@font-face {
+    font-family: 'GothamRoundedLight';
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-light.eot');
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-light.eot') format('embedded-opentype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-light.woff') format('woff'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-light.ttf') format('truetype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/gothamrnd-light.svg#GothamRoundedLight') format('svg');
+}
+
+.grbold   { font-family: "GothamRoundedBold"; }
+.grbook   { font-family: "GothamRoundedBook"; }
+.grmedium { font-family: "GothamRoundedMedium"; }
+.grlight  { font-family: "GothamRoundedLight"; }
+
+.keylabel { font-family: "GothamRoundedLight"; }
+
+
+@font-face {
+    font-family: 'cafe';
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/cafe.eot');
+    src: url('http://jasonm23.github.io/cafe-icon/fonts/cafe.eot?#iefix') format('embedded-opentype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/cafe.woff') format('woff'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/cafe.ttf') format('truetype'),
+         url('http://jasonm23.github.io/cafe-icon/fonts/cafe.svg#cafe') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon-cup:before{
+  display: inline-block;
+   font-family: 'cafe';
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale
+}
+
+.icon-cup:before{content:'\0041';}
