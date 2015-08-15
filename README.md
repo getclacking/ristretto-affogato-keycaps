@@ -13,6 +13,10 @@ of the clacking great community on /r/MechanicalKeyboards and
 The goal is to produce these through Signature Plastics as SA Profile
 (fully sculpted) in ABS plastic, with doubleshot key legends.
 
+### Disclaimer
+
+The layout is subject to change without notice, until it is made available for production / purchase.
+
 ### Preview
 
 [![](https://raw.githubusercontent.com/jasonm23/ristretto-affogato-keycaps/master/ristretto-affogato-keycaps-preview.png)](https://raw.githubusercontent.com/jasonm23/ristretto-affogato-keycaps/master/ristretto-affogato-keycaps-preview.png)
